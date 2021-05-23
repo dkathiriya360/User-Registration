@@ -1,2 +1,2 @@
 # User-Registration
-A simple (GUI) Registration Form that stores the user information in the SQL database using JDBC.
+A simple Registration Form (GUI) that stores the user information in the SQL database using JDBC.
